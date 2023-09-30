@@ -17,7 +17,7 @@ umaru is a discord bot which collects user feedback with notion database integra
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/arpnghosh/umaru.git
+   git clone https://github.com/retrovoxel/umaru.git
 2. Navigate to the project directory:
 
    ```shell
@@ -46,8 +46,8 @@ umaru is a discord bot which collects user feedback with notion database integra
     nodemon   
 ## Contributing
 
-- [Open an issue](https://github.com/arpnghosh/umaru/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/arpnghosh/umaru/pull) to add new features/make quality-of-life improvements/fix bugs.
+- [Open an issue](https://github.com/retrovoxel/umaru/issues) if you believe you've encountered a bug.
+- Make a [pull request](https://github.com/retrovoxel/umaru/pull) to add new features/make quality-of-life improvements/fix bugs.
   
  ## License
 This project is licensed under the [MIT License](LICENSE.md).
